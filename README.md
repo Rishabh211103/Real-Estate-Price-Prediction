@@ -1,4 +1,4 @@
-# Birla-Real-Estate-Price-Prediction &middot; [![Author Rishabh](https://img.shields.io/badge/Author-Rishabh-%3C%3E)](https://www.linkedin.com/in/rishabh-chaurasia-964153243/)
+# Real-Estate-Price-Prediction &middot; [![Author Rishabh](https://img.shields.io/badge/Author-Rishabh-%3C%3E)](https://www.linkedin.com/in/rishabh-chaurasia-964153243/)
 
 # Technology Used:- 
 Python,Sklearn,Pandas,Matplotlib,Seaborn,RandomForest,Flask,Heroku
@@ -9,3 +9,4 @@ Python,Sklearn,Pandas,Matplotlib,Seaborn,RandomForest,Flask,Heroku
    # Approach:
        Building project specific House price , EDA, under-sampling data, developing a pipeline with sklearn for preprocessing/data wrangling and model building along with cross-validation, model evaluation and  deploying.
  
+
